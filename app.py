@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import matplotlib.pyplot as plt
 
 # ------------------ CONFIG ------------------
 st.set_page_config(page_title="Incident Performance Dashboard", layout="wide")
