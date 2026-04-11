@@ -4,3 +4,4 @@ pyplot
 numpy
 pandas
 seaborn
+plotly.express
