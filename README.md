@@ -18,4 +18,13 @@ An interactive Streamlit application was developed to allow users to explore the
 
 The application demonstrates how the analysis can be transformed into an interactive data product rather than remaining only within a Jupyter Notebook.
 
+## ⭐ Project Highlights
+
+- Analyzed **7,485 incident records** after data cleaning and deduplication.
+- Cleaned and standardized inconsistent Nigerian state names.
+- Identified states with the highest incident volumes.
+- Analyzed incident types and casualty patterns.
+- Examined incident trends across years.
+- Built an interactive **Streamlit application** for exploring the dataset.
+
 📫 Open to data analyst / BI opportunities — feel free to connect.
